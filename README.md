@@ -1,8 +1,7 @@
 # MERN APP
 
 1. Its a simple MERN app, used to learn what is happening and why its happening. Main goal of this project was to understand concepts.
-2. It was a fun and a very learning experience, moving on from HTML and vanilla JS.
-3. As an ECE student, its hard to do projects in the software domain. But i tried my best to learn new technologies and make something fun and interesting for myself.
+2. It was a fun and a very good learning experience, moving on from HTML and vanilla JS.
 
 # THINGS TO REMEMBER 
 
@@ -21,13 +20,5 @@
 2. Add a landing page.
 3. Add dark mode
 4. Add some kind of MFA for employee entry.
-5. Learn Router more in depth and how express works, what exactly node is
-
-# Honest Thoughts
-1. Just a glorified Notes App.
-2. Add more styling.
-3. Maybe learn how everything is working in detail.
-4. Add more security and more tech.
-5. Build something from scratch and learn.
-6. Do a more advanced project, although a lot is happening, to a user nothing much is happening
+5. Learn Router more in depth.
 
